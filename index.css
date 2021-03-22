@@ -20,3 +20,17 @@ img {
 	display: block;
 	width: 100%;
 }
+
+b {
+	text-transform: uppercase;
+	font-weight: normal;
+	font-size: .8rem;
+	letter-spacing: 1px;
+	color: #70462E;
+}
+
+p {
+	color: #0044C3;
+	font-weight: bold;
+	font-size: 1.2rem;
+}
