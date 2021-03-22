@@ -1,6 +1,19 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+	background: #FAEEDE;
+	font-size: 18px;
+	text-rendering: optimizeLegibility;
+  -webkit-overflow-scrolling: touch;
+  -webkit-font-smoothing: antialiased;
+}
+
 .layout {
 	max-width: 600px;
 	margin: auto;
+	padding: 15px;
+	font-size: 1.1rem;
 }
 
 img {
