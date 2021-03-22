@@ -1,0 +1,9 @@
+.layout {
+	max-width: 600px;
+	margin: auto;
+}
+
+img {
+	display: block;
+	width: 100%;
+}
